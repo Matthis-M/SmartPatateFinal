@@ -3,7 +3,7 @@
 // VLO 2013-2014
 //****************************************************************************************
 
-int GetCas();
+int GetCas(); //Prototypes des différentes fonctions
 void pushValue(int value);
 int* CopyThenBubbleSort(int* toCopy);
 void setFrequency(float frequency);
